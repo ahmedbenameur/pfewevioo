@@ -4,23 +4,12 @@
             "elements": [{
                 "className": "org.joget.apps.form.lib.TextField",
                 "properties": {
-                    "requiredSanitize": "",
-                    "maxlength": "",
-                    "validator": {
-                        "className": "",
-                        "properties": {}
-                    },
-                    "label": "id",
-                    "disableIncrementDecrementArrow": "",
-                    "readonly": "",
-                    "size": "",
-                    "workflowVariable": "",
+                    "readonly": "False",
                     "style": "",
-                    "id": "id",
-                    "placeholder": "",
-                    "value": "",
-                    "readonlyLabel": "",
-                    "storeNumeric": ""
+                    "label": "Text Field",
+                    "id": "field1",
+                    "readonlyLabel": "False",
+                    "storeNumeric": "False"
                 }
             }],
             "className": "org.joget.apps.form.model.Column",
